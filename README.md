@@ -1,8 +1,11 @@
-# React + Vite
+# Imgs search app [React + Vite app]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Live at - https://search-imgs-api.netlify.app
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Used
+    - AXIOS
+    - API
+    - react js
+    - hooks 
+    - Tailwind Css, etc
+    
